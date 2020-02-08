@@ -1,12 +1,12 @@
 <?php
 /*
- * Plugin Name: Omiya Games' Itch.io Button
- * Plugin URI: http://omiyagames.com
+ * Plugin Name: Itch.io Button Shortcode
+ * Plugin URI: https://github.com/OmiyaGames/itchio-button
  * Description: Adds the [itchio-button] shortcode.
- * Version: 0.2
+ * Version: 1.0.0
  * Author: Taro Omiya
- * Author URI: http://taroomiya.com
- * License: Taro Omiya
+ * Author URI: https://omiyagames.com
+ * License: GPL v2
  **/
 
 // Make sure to add in the script from itch.io
