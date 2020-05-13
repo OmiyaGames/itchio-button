@@ -1,5 +1,7 @@
 # Itch.io Button Shortcode
-Generates a button to prompt the user whether they want to purchase a game on [Itch.io](https://itch.io) or not.
+[![Mirroring](https://github.com/OmiyaGames/itchio-button/workflows/Mirroring/badge.svg)](https://bitbucket.org/OmiyaGames/itchio-button) [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I51KS8F)
+
+Adds a shortcode that generates a button allow the user to purchase a game on [Itch.io](https://itch.io).
 
 # Usage
 Create a download button for the game, [*Air Flip Drive* by Omiya Games](https://omiyagames.itch.io/airflipdrive).
